@@ -1,6 +1,6 @@
-# Notes
+# Polimi-Notes
 
-Course notes from the first year of Computer Engineering at Politecnico di Milano, collected in one place. Each subject lives in its own folder, with its own README that lists the macro-areas and the lessons.
+Course notes for Computer Engineering at Politecnico di Milano, collected in one place. Each subject lives in its own folder, with its own README that lists the macro-areas and the lessons.
 
 ## Subjects
 

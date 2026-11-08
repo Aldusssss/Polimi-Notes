@@ -2,7 +2,7 @@
 
 **Course Content Structure**
 
-The notes are organized into 5 main macro-areas, covering the fundamentals of computer science from the first C++ programs to data structures, object-oriented programming and system programming. These notes are based on lectures from the first-year Computer Engineering course at Politecnico di Milano.
+The notes are organized into 5 main macro-areas, covering the fundamentals of computer science from the first C++ programs to data structures, object-oriented programming and system programming. These notes are based on lectures from the Computer Engineering course at Politecnico di Milano.
 
 
 ## **[01 — Programming Fundamentals and C++ Basics](./Lessons-1)**
